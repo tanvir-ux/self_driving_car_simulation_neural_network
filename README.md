@@ -4,3 +4,4 @@
 ### Today is the car physics part, learned how private method works in object oriented javascript, 
 ### How physics and math works in real world simulation. Lot's of sin and cosine angle involved.
 ### Overall it was fun.
+![Car Movement](car.gif)
