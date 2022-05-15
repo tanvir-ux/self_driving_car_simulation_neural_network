@@ -10,3 +10,7 @@ Overall it was fun.
 ### Today finished the Road with lots of Math and Physics equations involved. 
 It was fun
 ![Road Completed](road.gif)
+
+## Day 3
+### Finished adding Traffic 
+![Traffic Completed](traffic.gif)
