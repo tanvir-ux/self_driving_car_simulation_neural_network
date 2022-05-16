@@ -14,3 +14,8 @@ It was fun
 ## Day 3
 ### Finished adding Traffic 
 ![Traffic Completed](traffic.gif)
+
+## Day 4
+### Finally, finished my first self driving car
+Thanks to Radu from Finaland dot com, you are amazing, learned a lot from this project.
+![Final Car](final_car.gif)
